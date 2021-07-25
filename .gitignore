@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Project files and environments
+
+ienv/
+.azure/
+.vscode/
